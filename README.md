@@ -2,13 +2,17 @@
 
 # 中医高质量文本数据集
 
- [![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)](https://github.com/username/repo)
- [![License](https://img.shields.io/badge/license-MIT-green.svg)](https://opensource.org/licenses/MIT)
- [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
+[![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)](https://github.com/username/repo)
+[![License](https://img.shields.io/badge/license-MIT-green.svg)](https://opensource.org/licenses/MIT)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
 
- <a href="https://github.com/PanckooAI/repo/stargazers"><img src="https://img.shields.io/github/stars/PanckooAI/repo" alt="Stars Badge"/></a>
- <a href="https://github.com/PanckooAI/repo/network/members"><img src="https://img.shields.io/github/forks/PanckooAI/repo" alt="Forks Badge"/></a>
- <a href="https://github.com/PanckooAI/repo/issues"><img src="https://img.shields.io/github/issues/PanckooAI/repo" alt="Issues Badge"/></a>
+[![中医](https://img.shields.io/badge/中医-传承创新-8CC63F)](https://www.panckoo.com/)
+[![中药](https://img.shields.io/badge/中药-Herbal%20Medicine-4C8C2B)](https://www.panckoo.com/)
+[![针灸](https://img.shields.io/badge/针灸-Acupuncture-1E88E5)](https://www.panckoo.com/)
+[![中医](https://img.shields.io/badge/黄帝内经-天人合一-blueviolet)](https://www.panckoo.com/)
+[![阴阳](https://img.shields.io/badge/阴阳-五行%20·%20平衡-000000)](https://www.panckoo.com/)
+[![方剂](https://img.shields.io/badge/方剂-经方配伍-FF6F00)](https://example.com)
+
 
 ## 简介
 
