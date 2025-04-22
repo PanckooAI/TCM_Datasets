@@ -1,4 +1,14 @@
+<img src="TCM_image.jpeg" alt="项目标志" width="1200">
+
 # 中医高质量文本数据集
+
+ [![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)](https://github.com/username/repo)
+ [![License](https://img.shields.io/badge/license-MIT-green.svg)](https://opensource.org/licenses/MIT)
+ [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
+
+ <a href="https://github.com/PanckooAI/repo/stargazers"><img src="https://img.shields.io/github/stars/PanckooAI/repo" alt="Stars Badge"/></a>
+ <a href="https://github.com/PanckooAI/repo/network/members"><img src="https://img.shields.io/github/forks/PanckooAI/repo" alt="Forks Badge"/></a>
+ <a href="https://github.com/PanckooAI/repo/issues"><img src="https://img.shields.io/github/issues/PanckooAI/repo" alt="Issues Badge"/></a>
 
 ## 简介
 
